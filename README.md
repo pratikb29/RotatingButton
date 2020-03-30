@@ -1,4 +1,4 @@
 # RotatingButton
 Rotating Button in swift.
 
-![Alt text](demo.gif) / ![](demo.gif)
+![Pan and Volume change via knob](demo.gif) 
